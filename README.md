@@ -1,4 +1,5 @@
 # Starter Web Repo
+test diff stages of git and comparing
 
 ## Introduction
 
